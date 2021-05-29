@@ -1,4 +1,4 @@
 # DesignPatterns
-Reposity for examples to Design Patterns in C#
+Reposity for Design Patterns examples in C#
 
 Using Console Application with .NET Core 5.
