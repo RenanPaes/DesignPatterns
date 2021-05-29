@@ -1,0 +1,16 @@
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.exe
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.deps.json
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.json
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.dev.json
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.dll
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\ref\StrategyPattern.dll
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\bin\Debug\net5.0\StrategyPattern.pdb
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.dll
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\ref\StrategyPattern.dll
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.pdb
+C:\Users\renan.siqueira\source\repos\DesignPatterns\StrategyPattern\obj\Debug\net5.0\StrategyPattern.genruntimeconfig.cache
